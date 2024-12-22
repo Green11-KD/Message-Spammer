@@ -50,6 +50,16 @@ Please review your computer's specifications before downloading the software.
  4. Press next and the installer will download all the files needed for the software and the 3 packages needed for Python too. (The 3 packages will not be properly installed if you don't have Python installed first.
  5. Once it's done, launch the app, and we are good to go!
 
+## Guidelines
+
+### Modifications
+
+You are allowed to modify this tool for personal use. However, the developer is not responsible for any damages, malfunctions, or unintended issues caused by modifications. Modified versions of this tool must not be redistributed, shared, or sold under any circumstances.
+
+### Redistribution and Sale
+
+You are not permitted to distribute, share, or sell this tool to others in any form. The tool may only be obtained from the official website or authorized channels. Sharing copies or altered versions with others violates this agreement and may result in legal action.
+
 ## Is it a virus?
 
 Some anti-virus software flaggs the installer as a virus or trojan, but don't worry, the file is 100% safe.
@@ -104,6 +114,8 @@ Before you use:
 
 **Make sure you get the person's permission before spamming them!!**
 
+**Make sure you read the guidelines before using this software**
+
 1. Run the program by pressing the windows key and type "Message Spammer"
   ![image](https://github.com/user-attachments/assets/36e7daa7-6812-4c7a-bc78-b93eeea57e03)
 2. The app will ask you the message you want to send. Type in your message and press enter.
@@ -118,6 +130,17 @@ Before you use:
    ![image](https://github.com/user-attachments/assets/ef908606-1425-40dc-9f41-85133e3d0a1d)
 7. If you want to stop it, you can do that by pressing F6 again. But when the program sends enough message, it will stop by itself.
 8. When you're done, press enter again to exit the program.
+
+
+## Guidelines
+
+### Acceptable Use
+
+This tool is provided for authorized purposes only. You agree to use this tool responsibly and in compliance with all applicable laws and regulations. You are prohibited from using this tool for illegal, malicious, or harmful activities, including but not limited to unsolicited messaging, harassment, or violating terms of service of any platform.
+
+### User Responsibility
+
+You are solely responsible for how you use this tool. The developer of this tool assumes no responsibility for any consequences, arising from the use or misuse of the tool.
 
 # Not working?
 
